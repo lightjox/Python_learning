@@ -45,4 +45,5 @@ def DSF(graph,s): #s:start_point
 
 
 # print(BSF(graph, "A"))
-print(DSF(graph, "A"))
+# print(DSF(graph, "A"))
+
