@@ -7,3 +7,6 @@ def hanoi(n, A, B, C):
 n = input("請輸入整數：")
 for move in hanoi(int(n), 'A', 'B', 'C'):
     print("盤由 %c 移至 %c" % move)
+
+from array import*
+arr2 = array()
